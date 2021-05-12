@@ -2,7 +2,7 @@
 
 📝 I'm Abdurrahman. A full stack developer and an avid internet user
 
-💼 Currently, I'm mainly working with Electron and React. I almost exclusively use TypeScript
+💼 Currently, I'm mainly building desktop and web apps with Electron and React. I almost exclusively use TypeScript
 
 ### 🔭 Things I'm Familiar With
 
