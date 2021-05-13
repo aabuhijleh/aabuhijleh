@@ -89,5 +89,5 @@
 
 ### 📫 Contact
 
-- Personal email: ahijleh@outlook.com
-- Work email: aabuhijleh@asaltech.com
+- Personal email: [ahijleh@outlook.com](mailto:ahijleh@outlook.com)
+- Work email: [aabuhijleh@asaltech.com](mailto:aabuhijleh@asaltech.com)
