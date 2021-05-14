@@ -75,11 +75,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/aabuhijleh/Rainbow-React-Starter/pull/1) in [aabuhijleh/Rainbow-React-Starter](https://github.com/aabuhijleh/Rainbow-React-Starter)
-2. 🗣 Commented on [#2](https://github.com/aabuhijleh/Rainbow-C2C-Extension/issues/2) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
-3. ❗️ Closed issue [#217](https://github.com/fontsource/fontsource/issues/217) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. 🗣 Commented on [#217](https://github.com/fontsource/fontsource/issues/217) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#217](https://github.com/fontsource/fontsource/issues/217) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
+1. 🗣 Commented on [#41](https://github.com/dericgw/react-tiny-fab/issues/41) in [dericgw/react-tiny-fab](https://github.com/dericgw/react-tiny-fab)
+2. 🗣 Commented on [#41](https://github.com/dericgw/react-tiny-fab/issues/41) in [dericgw/react-tiny-fab](https://github.com/dericgw/react-tiny-fab)
+3. 🎉 Merged PR [#1](https://github.com/aabuhijleh/Rainbow-React-Starter/pull/1) in [aabuhijleh/Rainbow-React-Starter](https://github.com/aabuhijleh/Rainbow-React-Starter)
+4. 🗣 Commented on [#2](https://github.com/aabuhijleh/Rainbow-C2C-Extension/issues/2) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
+5. ❗️ Closed issue [#217](https://github.com/fontsource/fontsource/issues/217) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
 
 <!--END_SECTION:activity-->
 
