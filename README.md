@@ -2,7 +2,7 @@
 
 📝 I'm Abdurrahman. A full stack developer and an avid internet user
 
-💼 Currently, I'm mainly working with Electron and React. I almost exclusively use TypeScript
+💼 Currently, I'm mainly building desktop and web apps with Electron and React. I almost exclusively use TypeScript
 
 ### 🔭 Things I'm Familiar With
 
@@ -75,11 +75,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#2](https://github.com/aabuhijleh/Rainbow-C2C-Extension/issues/2) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
-2. ❗️ Closed issue [#217](https://github.com/fontsource/fontsource/issues/217) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-3. 🗣 Commented on [#217](https://github.com/fontsource/fontsource/issues/217) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-4. ❗️ Opened issue [#217](https://github.com/fontsource/fontsource/issues/217) in [fontsource/fontsource](https://github.com/fontsource/fontsource)
-5. ❗️ Opened issue [#27](https://github.com/inorganik/debugout.js/issues/27) in [inorganik/debugout.js](https://github.com/inorganik/debugout.js)
+1. ❗️ Closed issue [#13](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/13) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
+2. 🗣 Commented on [#11](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/11) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
+3. ❗️ Opened issue [#13](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/13) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
+4. 🗣 Commented on [#41](https://github.com/dericgw/react-tiny-fab/issues/41) in [dericgw/react-tiny-fab](https://github.com/dericgw/react-tiny-fab)
+5. 🗣 Commented on [#41](https://github.com/dericgw/react-tiny-fab/issues/41) in [dericgw/react-tiny-fab](https://github.com/dericgw/react-tiny-fab)
 
 <!--END_SECTION:activity-->
 
@@ -89,5 +89,5 @@
 
 ### 📫 Contact
 
-- Personal email: ahijleh@outlook.com
-- Work email: aabuhijleh@asaltech.com
+- Personal email: [ahijleh@outlook.com](mailto:ahijleh@outlook.com)
+- Work email: [aabuhijleh@asaltech.com](mailto:aabuhijleh@asaltech.com)
