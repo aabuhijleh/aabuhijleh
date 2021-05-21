@@ -84,7 +84,7 @@
 <!--END_SECTION:activity-->
 
 <p>
-  <img alt="cgorshing's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=aabuhijleh&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img alt="cgorshing's Github Stats" src="https://github-readme-stats-gules-six.vercel.app/api?username=aabuhijleh&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
 
 ### 📫 Contact
