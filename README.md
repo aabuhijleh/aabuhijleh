@@ -75,11 +75,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/aabuhijleh/Rainbow-C2C-Extension/issues/4) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
-2. 🗣 Commented on [#4](https://github.com/aabuhijleh/Rainbow-C2C-Extension/issues/4) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
-3. 🎉 Merged PR [#5](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/5) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
-4. 💪 Opened PR [#5](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/5) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
-5. ❌ Closed PR [#3](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/3) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
+1. ❗️ Closed issue [#13](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/13) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
+2. 🗣 Commented on [#11](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/11) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
+3. ❗️ Opened issue [#13](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/13) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
+4. 🗣 Commented on [#41](https://github.com/dericgw/react-tiny-fab/issues/41) in [dericgw/react-tiny-fab](https://github.com/dericgw/react-tiny-fab)
+5. 🗣 Commented on [#41](https://github.com/dericgw/react-tiny-fab/issues/41) in [dericgw/react-tiny-fab](https://github.com/dericgw/react-tiny-fab)
 
 <!--END_SECTION:activity-->
 
