@@ -75,11 +75,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/5) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
-2. 💪 Opened PR [#5](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/5) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
-3. ❌ Closed PR [#3](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/3) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
-4. ❌ Closed PR [#2](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/2) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
-5. ❗️ Closed issue [#13](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer/issues/13) in [mustaphaturhan/chakra-ui-markdown-renderer](https://github.com/mustaphaturhan/chakra-ui-markdown-renderer)
+1. 🗣 Commented on [#4](https://github.com/aabuhijleh/Rainbow-C2C-Extension/issues/4) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
+2. 🎉 Merged PR [#5](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/5) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
+3. 💪 Opened PR [#5](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/5) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
+4. ❌ Closed PR [#3](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/3) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
+5. ❌ Closed PR [#2](https://github.com/aabuhijleh/Rainbow-C2C-Extension/pull/2) in [aabuhijleh/Rainbow-C2C-Extension](https://github.com/aabuhijleh/Rainbow-C2C-Extension)
 
 <!--END_SECTION:activity-->
 
