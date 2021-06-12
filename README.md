@@ -26,6 +26,7 @@
 <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-sqaure&logo=styled-components&logoColor=white"/>
 <img alt="Material UI" src="https://img.shields.io/badge/-Material_UI-%230081CB.svg?&style=flat-sqaure&logo=material-ui&logoColor=white"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-%230769AD.svg?&style=flat-sqaure&logo=jquery&logoColor=white"/>
