@@ -86,8 +86,3 @@
 <p>
   <img alt="cgorshing's Github Stats" src="https://github-readme-stats-gules-six.vercel.app/api?username=aabuhijleh&show_icons=true&hide_border=true&theme=tokyonight" />
 </p>
-
-### 📫 Contact
-
-- Personal email: [ahijleh@outlook.com](mailto:ahijleh@outlook.com)
-- Work email: [aabuhijleh@asaltech.com](mailto:aabuhijleh@asaltech.com)
