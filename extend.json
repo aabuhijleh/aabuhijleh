@@ -1,0 +1,16 @@
+{
+  "about": {
+    "paragraphs": [
+      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis tempora quia ea inventore id repudiandae laudantium provident incidunt? Tempora commodi incidunt laboriosam molestiae ducimus ipsa, praesentium facere corrupti aliquid nobis",
+      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae nesciunt vero dolorum delectus aspernatur. Doloribus magni veniam aperiam aliquid asperiores aspernatur officiis reiciendis beatae, omnis sit cumque temporibus quis voluptate"
+    ],
+    "skills": [
+      "TypeScript",
+      "Node.js",
+      "React",
+      "Electron",
+      "Styled Components",
+      "GraphQL"
+    ]
+  }
+}
