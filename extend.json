@@ -35,14 +35,16 @@
       "name": "Rainbow For Desktop",
       "description": "A cross-platform desktop application for Rainbow which is a user friendly new WebRTC-based real time communication platform",
       "technologies": ["Electron", "Node.js", "C++"],
-      "externalUrl": "https://web.openrainbow.com"
+      "externalUrl": "https://web.openrainbow.com",
+      "imageUrl": "https://user-images.githubusercontent.com/42934634/121816705-cc958600-cc85-11eb-8e56-c8a4bd6befe1.png"
     },
     {
       "name": "Better GitHub Profile",
       "description": "Generates a nice looking website using your GitHub profile data. It's the tool I'm using right now to generate this website",
       "technologies": ["React", "Styled Components", "GitHub GraphQL API"],
       "repoUrl": "https://github.com/aabuhijleh/better-github-profile",
-      "externalUrl": "https://aabuhijleh.com"
+      "externalUrl": "https://aabuhijleh.com",
+      "imageUrl": "https://user-images.githubusercontent.com/42934634/121816709-d0c1a380-cc85-11eb-9772-877c8fdb36a9.png"
     }
   ],
   "otherProjects": [
