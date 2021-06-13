@@ -11,6 +11,62 @@
       "Electron",
       "Styled Components",
       "GraphQL"
-    ]
-  }
+    ],
+    "imageUrl": "https://user-images.githubusercontent.com/42934634/121816692-bc7da680-cc85-11eb-95b4-f5aa711d7b1c.jpg"
+  },
+  "jobs": [
+    {
+      "title": "Software Engineer",
+      "company": "Alcatel-Lucent Enterprise",
+      "companyUrl": "https://www.al-enterprise.com/en",
+      "date": {
+        "from": "May 2018",
+        "to": "Present"
+      },
+      "accomplishments": [
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia aut omnis corporis repellendus",
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia aut omnis corporis repellendus",
+        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia aut omnis corporis repellendus"
+      ]
+    }
+  ],
+  "featuredProjects": [
+    {
+      "name": "Rainbow For Desktop",
+      "description": "A cross-platform desktop application for Rainbow which is a user friendly new WebRTC-based real time communication platform",
+      "technologies": ["Electron", "Node.js", "C++"],
+      "externalUrl": "https://web.openrainbow.com"
+    },
+    {
+      "name": "Better GitHub Profile",
+      "description": "Generates a nice looking website using your GitHub profile data. It's the tool I'm using right now to generate this website",
+      "technologies": ["React", "Styled Components", "GitHub GraphQL API"],
+      "repoUrl": "https://github.com/aabuhijleh/better-github-profile",
+      "externalUrl": "https://aabuhijleh.com"
+    }
+  ],
+  "otherProjects": [
+    {
+      "name": "osw",
+      "description": "During the COVID-19 lockdown we all had to work from home. To make things worse, in our company, we had to fill out a form every day and use a slow, outdated website to submit it. With this tool, me and dozens of my coworkers do this chore in 5 seconds instead of 5 minutes",
+      "technologies": ["Node.js", "Yargs", "Inquirer.js"],
+      "repoUrl": "https://github.com/aabuhijleh/osw",
+      "externalUrl": "https://www.npmjs.com/package/osw"
+    },
+    {
+      "name": "electron-selected-text",
+      "description": "During the COVID-19 lockdown we all had to work from home. To make things worse, in our company, we had to fill out a form every day and use a slow, outdated website to submit it. With this tool, me and dozens of my coworkers do this chore in 5 seconds instead of 5 minutes",
+      "technologies": ["Node.js", "RobotJS"],
+      "repoUrl": "https://github.com/aabuhijleh/electron-selected-text",
+      "externalUrl": "https://www.npmjs.com/package/electron-selected-text"
+    },
+    {
+      "name": "keylogger.js",
+      "description": "A Node.js keylogger for Windows and macOS. It registers native low level hooks to capture keyboard events. node-addon-api is used to bridge between native and JavaScript worlds",
+      "technologies": ["Node.js", "C++"],
+      "repoUrl": "https://github.com/aabuhijleh/keylogger.js",
+      "externalUrl": "https://www.npmjs.com/package/keylogger.js"
+    }
+  ],
+  "contactMessage": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, necessitatibus. Alias, explicabo soluta sit tempore vel ducimus corrupti nisi eveniet possimus libero aut eos odit? Recusandae minus molestiae enim corrupti."
 }
