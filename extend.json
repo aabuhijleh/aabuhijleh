@@ -58,7 +58,7 @@
     },
     {
       "name": "electron-selected-text",
-      "description": "During the COVID-19 lockdown we all had to work from home. To make things worse, in our company, we had to fill out a form every day and use a slow, outdated website to submit it. With this tool, me and dozens of my coworkers do this chore in 5 seconds instead of 5 minutes",
+      "description": "A cross-platform utility that enables retrieving selected text from any application. It achieves this by using RobotJS to synthesize a CommandOrControl+C keyboard shortcut then getting the value from the clipboard",
       "technologies": ["Node.js", "RobotJS"],
       "repoUrl": "https://github.com/aabuhijleh/electron-selected-text",
       "externalUrl": "https://www.npmjs.com/package/electron-selected-text"
