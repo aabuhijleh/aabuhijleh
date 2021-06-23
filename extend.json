@@ -25,9 +25,9 @@
         "to": "Present"
       },
       "accomplishments": [
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia aut omnis corporis repellendus",
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia aut omnis corporis repellendus",
-        "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia aut omnis corporis repellendus"
+        "Built and shipped a customer-facing cross-platform desktop application using TypeScript, Electron, Node.js, HTML and CSS. Had to write OS-specific native code to access some native APIs",
+        "Developed and shipped a Google Chrome extension built with TypeScript, React and Material UI",
+        "Built an Oauth 2.0 Authorization server using TypeScript, Node.js, Express.js, Docker and Redis"
       ]
     }
   ],
@@ -71,5 +71,5 @@
       "externalUrl": "https://www.npmjs.com/package/keylogger.js"
     }
   ],
-  "contactMessage": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores, necessitatibus. Alias, explicabo soluta sit tempore vel ducimus corrupti nisi eveniet possimus libero aut eos odit? Recusandae minus molestiae enim corrupti."
+  "contactMessage": "My inbox is always open. Whether you have a question, you wish to discuss a potential project or just want to say hi, I'll try my best to get back to you ASAP!"
 }
