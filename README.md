@@ -11,7 +11,7 @@
 #### Languages
 
 <p>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript_(ES6+)-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript_(ES6+)-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
