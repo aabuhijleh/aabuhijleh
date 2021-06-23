@@ -2,8 +2,8 @@
   "resume": "https://github.com/aabuhijleh/aabuhijleh/files/6644417/lorem-ipsum.pdf",
   "about": {
     "paragraphs": [
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Reiciendis tempora quia ea inventore id repudiandae laudantium provident incidunt? Tempora commodi incidunt laboriosam molestiae ducimus ipsa, praesentium facere corrupti aliquid nobis",
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae nesciunt vero dolorum delectus aspernatur. Doloribus magni veniam aperiam aliquid asperiores aspernatur officiis reiciendis beatae, omnis sit cumque temporibus quis voluptate"
+      "Hello! My name is Abdurrahman, a Palestinian software engineer who enjoys building all kinds of applicaitons using web technologies. I graduated in 2018 from An-Najah National University with a Bachelor's degree in Computer Engineering and immediately started working in the field.",
+      "I had the privilege of working on amazing projects using state of the art technologies and collaborate with great teams. I'm passionate about delivering high quality products to users while writing modern, performance, maintainable code. If I'm not coding, I'm searching, reading and trying to develop my skill set and add more tools to my toolbox."
     ],
     "skills": [
       "TypeScript",
@@ -25,7 +25,7 @@
         "to": "Present"
       },
       "accomplishments": [
-        "Built and shipped a customer-facing cross-platform desktop application using TypeScript, Electron, Node.js, HTML and CSS. Had to write OS-specific native code to access some native APIs",
+        "Built and shipped a customer-facing, cross-platform desktop application using TypeScript, Electron, Node.js, HTML and CSS. Had to write OS-specific code to access some native APIs",
         "Developed and shipped a Google Chrome extension built with TypeScript, React and Material UI",
         "Built an Oauth 2.0 Authorization server using TypeScript, Node.js, Express.js, Docker and Redis"
       ]
@@ -34,14 +34,14 @@
   "featuredProjects": [
     {
       "name": "Rainbow For Desktop",
-      "description": "A cross-platform desktop application for Rainbow which is a user friendly new WebRTC-based real time communication platform",
+      "description": "A cross-platform desktop application for Rainbow which is a user friendly new WebRTC-based real time communication platform.",
       "technologies": ["Electron", "Node.js", "C++"],
       "externalUrl": "https://web.openrainbow.com",
       "imageUrl": "https://user-images.githubusercontent.com/42934634/121816705-cc958600-cc85-11eb-8e56-c8a4bd6befe1.png"
     },
     {
       "name": "Better GitHub Profile",
-      "description": "Generates a nice looking website using your GitHub profile data. It's the tool I'm using right now to generate this website",
+      "description": "Generates a nice looking website using your GitHub profile data. It's the tool I'm using right now to generate this website!",
       "technologies": ["React", "Styled Components", "GitHub GraphQL API"],
       "repoUrl": "https://github.com/aabuhijleh/better-github-profile",
       "externalUrl": "https://aabuhijleh.com",
