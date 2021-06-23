@@ -3,7 +3,7 @@
   "about": {
     "paragraphs": [
       "Hello! My name is Abdurrahman, a Palestinian software engineer who enjoys building all kinds of applicaitons using web technologies. I graduated in 2018 from An-Najah National University with a Bachelor's degree in Computer Engineering and immediately started working in the field.",
-      "I had the privilege of working on amazing projects using state of the art technologies and collaborate with great teams. I'm passionate about delivering high quality products to users while writing modern, performance, maintainable code. If I'm not coding, I'm searching, reading and trying to develop my skill set and add more tools to my toolbox."
+      "I had the privilege of working on amazing projects using state of the art technologies and collaborate with great teams. I'm passionate about delivering high quality products to users while writing modern, performant, maintainable code. If I'm not coding, I'm searching, reading and trying to develop my skill set and add more tools to my toolbox."
     ],
     "skills": [
       "TypeScript",
@@ -41,7 +41,7 @@
     },
     {
       "name": "Better GitHub Profile",
-      "description": "Generates a nice looking website using your GitHub profile data. It's the tool I'm using right now to generate this website!",
+      "description": "Generates a good looking website using your GitHub profile data. It's the tool I'm using right now to generate this website!",
       "technologies": ["React", "Styled Components", "GitHub GraphQL API"],
       "repoUrl": "https://github.com/aabuhijleh/better-github-profile",
       "externalUrl": "https://aabuhijleh.com",
