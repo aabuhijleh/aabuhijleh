@@ -77,10 +77,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#26691](https://github.com/electron/electron/issues/26691) in [electron/electron](https://github.com/electron/electron)
-2. ❗️ Reopened issue [#26691](https://github.com/electron/electron/issues/26691) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#21311](https://github.com/electron/electron/issues/21311) in [electron/electron](https://github.com/electron/electron)
-4. 🗣 Commented on [#86](https://github.com/bchiang7/v4/issues/86) in [bchiang7/v4](https://github.com/bchiang7/v4)
-5. 🗣 Commented on [#41](https://github.com/dericgw/react-tiny-fab/issues/41) in [dericgw/react-tiny-fab](https://github.com/dericgw/react-tiny-fab)
+2. 🗣 Commented on [#26691](https://github.com/electron/electron/issues/26691) in [electron/electron](https://github.com/electron/electron)
+3. ❗️ Reopened issue [#26691](https://github.com/electron/electron/issues/26691) in [electron/electron](https://github.com/electron/electron)
+4. 🗣 Commented on [#21311](https://github.com/electron/electron/issues/21311) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#86](https://github.com/bchiang7/v4/issues/86) in [bchiang7/v4](https://github.com/bchiang7/v4)
 
 <!--END_SECTION:activity-->
 
