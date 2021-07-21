@@ -24,7 +24,7 @@
 #### Frameworks
 
 <p>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
@@ -47,20 +47,20 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-%232C5263.svg?&style=flat-sqaure&logo=jenkins&logoColor=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira-software&logoColor=white" />
 </p>
 
 #### Deployment
 
 <p>
-<img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="GitLab CI" src="https://img.shields.io/badge/-GitLabCI-%23181717.svg?&style=flat-sqaure&logo=gitlab&logoColor=white"/>
+<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />
 <img alt="Postgres" src ="https://img.shields.io/badge/-Postgres-%23316192.svg?&style=flat-sqaure&logo=postgresql&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-sqaure&logo=mongodb&logoColor=white"/>
 <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-%232C5263.svg?&style=flat-sqaure&logo=jenkins&logoColor=white"/>
 </p>
 
 #### Forums
