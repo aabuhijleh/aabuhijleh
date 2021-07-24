@@ -47,7 +47,6 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
-<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-%232C5263.svg?&style=flat-sqaure&logo=jenkins&logoColor=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira-software&logoColor=white" />
 </p>
 
@@ -56,6 +55,7 @@
 <p>
 <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="GitLab CI" src="https://img.shields.io/badge/-GitLabCI-%23181717.svg?&style=flat-sqaure&logo=gitlab&logoColor=white"/>
+<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-%232C5263.svg?&style=flat-sqaure&logo=jenkins&logoColor=white"/>
 <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />
 <img alt="Postgres" src ="https://img.shields.io/badge/-Postgres-%23316192.svg?&style=flat-sqaure&logo=postgresql&logoColor=white"/>
