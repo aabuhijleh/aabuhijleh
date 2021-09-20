@@ -76,11 +76,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#498](https://github.com/aabuhijleh/electron-typescript-quick-start/pull/498) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
-2. 🗣 Commented on [#23506](https://github.com/electron/electron/issues/23506) in [electron/electron](https://github.com/electron/electron)
-3. 🗣 Commented on [#478](https://github.com/aabuhijleh/electron-typescript-quick-start/issues/478) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
-4. 🎉 Merged PR [#475](https://github.com/aabuhijleh/electron-typescript-quick-start/pull/475) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
-5. 🎉 Merged PR [#423](https://github.com/aabuhijleh/electron-typescript-quick-start/pull/423) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
+1. 🎉 Merged PR [#1](https://github.com/aabuhijleh/keylogger.js/pull/1) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
+2. 🗣 Commented on [#1](https://github.com/aabuhijleh/keylogger.js/issues/1) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
+3. 🎉 Merged PR [#498](https://github.com/aabuhijleh/electron-typescript-quick-start/pull/498) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
+4. 🗣 Commented on [#23506](https://github.com/electron/electron/issues/23506) in [electron/electron](https://github.com/electron/electron)
+5. 🗣 Commented on [#478](https://github.com/aabuhijleh/electron-typescript-quick-start/issues/478) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
 
 <!--END_SECTION:activity-->
 
