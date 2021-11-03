@@ -76,11 +76,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#2](https://github.com/aabuhijleh/keylogger.js/issues/2) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
-2. 🗣 Commented on [#2](https://github.com/aabuhijleh/keylogger.js/issues/2) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
-3. 🎉 Merged PR [#1](https://github.com/aabuhijleh/keylogger.js/pull/1) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
-4. 🗣 Commented on [#1](https://github.com/aabuhijleh/keylogger.js/issues/1) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
-5. 🎉 Merged PR [#498](https://github.com/aabuhijleh/electron-typescript-quick-start/pull/498) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
+1. 🎉 Merged PR [#539](https://github.com/aabuhijleh/electron-typescript-quick-start/pull/539) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
+2. ❗️ Closed issue [#2](https://github.com/aabuhijleh/keylogger.js/issues/2) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
+3. 🗣 Commented on [#2](https://github.com/aabuhijleh/keylogger.js/issues/2) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
+4. 🎉 Merged PR [#1](https://github.com/aabuhijleh/keylogger.js/pull/1) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
+5. 🗣 Commented on [#1](https://github.com/aabuhijleh/keylogger.js/issues/1) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
 
 <!--END_SECTION:activity-->
 
