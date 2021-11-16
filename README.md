@@ -76,11 +76,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/aabuhijleh/next-starter/pull/10) in [aabuhijleh/next-starter](https://github.com/aabuhijleh/next-starter)
-2. ❌ Closed PR [#542](https://github.com/aabuhijleh/electron-typescript-quick-start/pull/542) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
-3. 🎉 Merged PR [#539](https://github.com/aabuhijleh/electron-typescript-quick-start/pull/539) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
-4. ❗️ Closed issue [#2](https://github.com/aabuhijleh/keylogger.js/issues/2) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
-5. 🗣 Commented on [#2](https://github.com/aabuhijleh/keylogger.js/issues/2) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
+1. ❌ Closed PR [#9](https://github.com/aabuhijleh/nest-starter/pull/9) in [aabuhijleh/nest-starter](https://github.com/aabuhijleh/nest-starter)
+2. 🎉 Merged PR [#10](https://github.com/aabuhijleh/next-starter/pull/10) in [aabuhijleh/next-starter](https://github.com/aabuhijleh/next-starter)
+3. ❌ Closed PR [#542](https://github.com/aabuhijleh/electron-typescript-quick-start/pull/542) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
+4. 🎉 Merged PR [#539](https://github.com/aabuhijleh/electron-typescript-quick-start/pull/539) in [aabuhijleh/electron-typescript-quick-start](https://github.com/aabuhijleh/electron-typescript-quick-start)
+5. ❗️ Closed issue [#2](https://github.com/aabuhijleh/keylogger.js/issues/2) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
 
 <!--END_SECTION:activity-->
 
