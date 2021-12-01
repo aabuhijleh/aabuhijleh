@@ -1,5 +1,5 @@
 {
-  "resume": "https://github.com/aabuhijleh/better-github-profile/files/6924085/resume.pdf",
+  "resume": "https://github.com/aabuhijleh/aabuhijleh/files/7635672/resume.pdf",
   "about": {
     "paragraphs": [
       "Hello! My name is Abdurrahman, a Palestinian software engineer who enjoys building all kinds of applicaitons using web technologies. I graduated in 2018 from An-Najah National University with a Bachelor's degree in Computer Engineering and immediately started working in the field.",
@@ -7,8 +7,8 @@
     ],
     "skills": [
       "TypeScript",
-      "Node.js",
       "React",
+      "Node.js",
       "Electron",
       "Styled Components",
       "GraphQL"
@@ -17,17 +17,42 @@
   },
   "jobs": [
     {
+      "title": "Senior Software Engineer",
+      "company": "Amdocs",
+      "companyUrl": "https://www.amdocs.com",
+      "date": {
+        "from": "Sep 2021",
+        "to": "Present"
+      },
+      "accomplishments": [
+        "Worked on a large-scale web application using React, Redux and TypeScript"
+      ]
+    },
+    {
       "title": "Software Engineer",
       "company": "Alcatel-Lucent Enterprise",
       "companyUrl": "https://www.al-enterprise.com/en",
+      "date": {
+        "from": "May 2018",
+        "to": "Aug 2021"
+      },
+      "accomplishments": [
+        "Built and shipped a customer-facing, cross-platform desktop application using TypeScript, Electron and Node.js. Wrote OS-specific code to access some native APIs",
+        "Developed and shipped a Google Chrome extension built with TypeScript, React and Material UI",
+        "Interfaced with customer care professionals on a daily basis, providing technological expertise"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Asal Technologies",
+      "companyUrl": "https://www.asaltech.com",
       "date": {
         "from": "Jan 2018",
         "to": "Present"
       },
       "accomplishments": [
-        "Built and shipped a customer-facing, cross-platform desktop application using TypeScript, Electron, Node.js, HTML and CSS. Had to write OS-specific code to access some native APIs",
-        "Developed and shipped a Google Chrome extension built with TypeScript, React and Material UI",
-        "Interfaced with customer care professionals on a daily basis, providing technological expertise"
+        "Led a small team of college interns working on various Rawabi city projects and conducted design and code reviews",
+        "Contributed to Rawabi Homeowners association website using the PHP framework UserFrosting and MySQL as a database"
       ]
     }
   ],
@@ -50,12 +75,13 @@
   ],
   "otherProjects": [
     {
-      "name": "osw",
-      "description": "During the COVID-19 lockdown we all had to work from home. To make things worse, in our company, we had to fill out a form every day and use a slow, outdated website to submit it. With this tool, me and dozens of my coworkers do this chore in 5 seconds instead of 5 minutes",
-      "technologies": ["Node.js", "Yargs", "Inquirer.js"],
-      "repoUrl": "https://github.com/aabuhijleh/osw",
-      "externalUrl": "https://www.npmjs.com/package/osw"
+      "name": "keylogger.js",
+      "description": "A Node.js keylogger for Windows and macOS. It registers native low level hooks to capture keyboard events. node-addon-api is used to bridge between native and JavaScript worlds",
+      "technologies": ["Node.js", "C++"],
+      "repoUrl": "https://github.com/aabuhijleh/keylogger.js",
+      "externalUrl": "https://www.npmjs.com/package/keylogger.js"
     },
+
     {
       "name": "electron-selected-text",
       "description": "A cross-platform utility that enables retrieving selected text from any application. It achieves this by using RobotJS to synthesize a CommandOrControl+C keyboard shortcut then getting the value from the clipboard",
@@ -64,11 +90,11 @@
       "externalUrl": "https://www.npmjs.com/package/electron-selected-text"
     },
     {
-      "name": "keylogger.js",
-      "description": "A Node.js keylogger for Windows and macOS. It registers native low level hooks to capture keyboard events. node-addon-api is used to bridge between native and JavaScript worlds",
-      "technologies": ["Node.js", "C++"],
-      "repoUrl": "https://github.com/aabuhijleh/keylogger.js",
-      "externalUrl": "https://www.npmjs.com/package/keylogger.js"
+      "name": "osw",
+      "description": "During the COVID-19 lockdown we all had to work from home. To make things worse, in our company, we had to fill out a form every day and use a slow, outdated website to submit it. With this tool, me and dozens of my coworkers do this chore in 5 seconds instead of 5 minutes",
+      "technologies": ["Node.js", "Yargs", "Inquirer.js"],
+      "repoUrl": "https://github.com/aabuhijleh/osw",
+      "externalUrl": "https://www.npmjs.com/package/osw"
     }
   ],
   "contactMessage": "My inbox is always open. Whether you have a question, you wish to discuss a potential project or just want to say hi, I'll try my best to get back to you ASAP!"

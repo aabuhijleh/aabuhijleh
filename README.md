@@ -2,7 +2,7 @@
 
 📝 I'm Abdurrahman. A full stack developer and an avid internet user
 
-💼 I'm currently building exceptional web apps using [the refined hypebeast stack](https://twitter.com/benawad/status/1357899806543347713) (React, styled-components, Node.js, PostgreSQL) and cross-platform desktop apps using Electron. I exclusively use TypeScript 🚀
+💼 I'm currently building exceptional web apps using the refined [hypebeast stack](https://twitter.com/benawad/status/1357899806543347713) (React, styled-components, Node.js, PostgreSQL) and cross-platform desktop apps using Electron. I exclusively use TypeScript 🚀
 
 [<img alt="JavaScript" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aabuhijleh)
 
