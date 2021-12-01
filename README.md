@@ -2,7 +2,7 @@
 
 📝 I'm Abdurrahman. A full stack developer and an avid internet user
 
-💼 Currently, I'm mainly building desktop and web apps with Electron and React. I almost exclusively use TypeScript
+💼 I'm currently building exceptional web apps using [the refined hypebeast stack](https://twitter.com/benawad/status/1357899806543347713) (React, styled-components, Node.js, PostgreSQL) and cross-platform desktop apps using Electron. I exclusively use TypeScript 🚀
 
 [<img alt="JavaScript" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aabuhijleh)
 
@@ -48,6 +48,7 @@
 <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira-software&logoColor=white" />
+<img alt="Perforce Helix" src="https://img.shields.io/badge/-Perforce%20Helix-404040?style=flat-square&logo=Perforce&logoColor=white" />
 </p>
 
 #### Deployment
