@@ -77,11 +77,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#44516](https://github.com/angular/angular/pull/44516) in [angular/angular](https://github.com/angular/angular)
-2. 🎉 Merged PR [#17](https://github.com/aabuhijleh/nest-starter/pull/17) in [aabuhijleh/nest-starter](https://github.com/aabuhijleh/nest-starter)
-3. 🎉 Merged PR [#16](https://github.com/aabuhijleh/next-starter/pull/16) in [aabuhijleh/next-starter](https://github.com/aabuhijleh/next-starter)
-4. 🗣 Commented on [#1051](https://github.com/okonet/lint-staged/issues/1051) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
-5. ❗️ Closed issue [#1051](https://github.com/okonet/lint-staged/issues/1051) in [okonet/lint-staged](https://github.com/okonet/lint-staged)
+1. 💪 Opened PR [#44517](https://github.com/angular/angular/pull/44517) in [angular/angular](https://github.com/angular/angular)
+2. ❌ Closed PR [#44516](https://github.com/angular/angular/pull/44516) in [angular/angular](https://github.com/angular/angular)
+3. ❌ Reopened PR [#44516](https://github.com/angular/angular/pull/44516) in [angular/angular](https://github.com/angular/angular)
+4. ❌ Closed PR [#44516](https://github.com/angular/angular/pull/44516) in [angular/angular](https://github.com/angular/angular)
+5. 💪 Opened PR [#44516](https://github.com/angular/angular/pull/44516) in [angular/angular](https://github.com/angular/angular)
 
 <!--END_SECTION:activity-->
 
