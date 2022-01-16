@@ -77,11 +77,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/nidalhjab/bookTask/issues/5) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
-2. ❗️ Opened issue [#6](https://github.com/nidalhjab/bookTask/issues/6) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
-3. ❗️ Opened issue [#3](https://github.com/nidalhjab/bookTask/issues/3) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
-4. ❗️ Opened issue [#2](https://github.com/nidalhjab/bookTask/issues/2) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
-5. ❗️ Opened issue [#1](https://github.com/nidalhjab/bookTask/issues/1) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
+1. 🗣 Commented on [#8](https://github.com/nidalhjab/bookTask/issues/8) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
+2. 🗣 Commented on [#5](https://github.com/nidalhjab/bookTask/issues/5) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
+3. 🗣 Commented on [#5](https://github.com/nidalhjab/bookTask/issues/5) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
+4. ❗️ Opened issue [#6](https://github.com/nidalhjab/bookTask/issues/6) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
+5. ❗️ Opened issue [#3](https://github.com/nidalhjab/bookTask/issues/3) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
 
 <!--END_SECTION:activity-->
 
