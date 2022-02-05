@@ -29,6 +29,7 @@
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
 <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-sqaure&logo=styled-components&logoColor=white"/>
+<img alt="Angular" src="https://img.shields.io/badge/-Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-%230769AD.svg?&style=flat-sqaure&logo=jquery&logoColor=white"/>
 <img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-sqaure&logo=apollo-graphql"/>
 <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-%23404d59.svg?&style=flat-sqaure"/>
@@ -69,6 +70,8 @@
 <p>
 <img alt="Stack Overflow" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>
 <img alt="Reddit" src="https://img.shields.io/badge/-reddit-%23FF4500.svg?&style=flat-square&logo=Reddit&logoColor=white"/>
+<img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
+<img alt="DEV" src="https://img.shields.io/badge/-DEV.TO-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/>
 </p>
 
 [![Abdurrahman Abu Hijleh's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9698583&theme=dark&layout=compact)](https://stackoverflow.com/users/9698583/aabuhijleh)
