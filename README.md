@@ -80,11 +80,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#34691](https://github.com/vercel/next.js/pull/34691) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🎉 Merged PR [#19](https://github.com/nidalhjab/bookTask/pull/19) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
-3. 🗣 Commented on [#18](https://github.com/nidalhjab/bookTask/issues/18) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
+1. ❌ Closed PR [#1](https://github.com/gerhardberger/addon-emitter/pull/1) in [gerhardberger/addon-emitter](https://github.com/gerhardberger/addon-emitter)
+2. 💪 Opened PR [#34691](https://github.com/vercel/next.js/pull/34691) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🎉 Merged PR [#19](https://github.com/nidalhjab/bookTask/pull/19) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
 4. 🗣 Commented on [#18](https://github.com/nidalhjab/bookTask/issues/18) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
-5. 🗣 Commented on [#15](https://github.com/nidalhjab/bookTask/issues/15) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
+5. 🗣 Commented on [#18](https://github.com/nidalhjab/bookTask/issues/18) in [nidalhjab/bookTask](https://github.com/nidalhjab/bookTask)
 
 <!--END_SECTION:activity-->
 
