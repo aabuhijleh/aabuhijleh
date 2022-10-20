@@ -80,11 +80,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/DeenaNees/interactive_comments/pull/1) in [DeenaNees/interactive_comments](https://github.com/DeenaNees/interactive_comments)
-2. ❗️ Opened issue [#350](https://github.com/yangshun/front-end-interview-handbook/issues/350) in [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)
-3. 💪 Opened PR [#4](https://github.com/aabuhijleh/keylogger.js/pull/4) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
-4. ❗️ Opened issue [#613](https://github.com/leerob/on-demand-isr/issues/613) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-5. ❗️ Opened issue [#1987](https://github.com/sindresorhus/got/issues/1987) in [sindresorhus/got](https://github.com/sindresorhus/got)
+1. 🗣 Commented on [#1599](https://github.com/SheetJS/sheetjs/issues/1599) in [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)
+2. 🗣 Commented on [#1599](https://github.com/SheetJS/sheetjs/issues/1599) in [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)
+3. 🗣 Commented on [#1599](https://github.com/SheetJS/sheetjs/issues/1599) in [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)
+4. 🗣 Commented on [#1599](https://github.com/SheetJS/sheetjs/issues/1599) in [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)
+5. 🗣 Commented on [#1599](https://github.com/SheetJS/sheetjs/issues/1599) in [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)
 
 <!--END_SECTION:activity-->
 
