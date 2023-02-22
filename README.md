@@ -80,9 +80,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#12028](https://github.com/storybookjs/storybook/issues/12028) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
-2. 🗣 Commented on [#137](https://github.com/golang/mock/issues/137) in [golang/mock](https://github.com/golang/mock)
-3. 🗣 Commented on [#1599](https://github.com/SheetJS/sheetjs/issues/1599) in [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)
+1. 🗣 Commented on [#17720](https://github.com/storybookjs/storybook/issues/17720) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+2. 🗣 Commented on [#12028](https://github.com/storybookjs/storybook/issues/12028) in [storybookjs/storybook](https://github.com/storybookjs/storybook)
+3. 🗣 Commented on [#137](https://github.com/golang/mock/issues/137) in [golang/mock](https://github.com/golang/mock)
 4. 🗣 Commented on [#1599](https://github.com/SheetJS/sheetjs/issues/1599) in [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)
 5. 🗣 Commented on [#1599](https://github.com/SheetJS/sheetjs/issues/1599) in [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)
 
