@@ -87,7 +87,3 @@
 5. 🗣 Commented on [#1367](https://github.com/flutter-mapbox-gl/maps/issues/1367#issuecomment-1717449639) in [flutter-mapbox-gl/maps](https://github.com/flutter-mapbox-gl/maps)
 
 <!--END_SECTION:activity-->
-
-<p>
-  <img alt="cgorshing's Github Stats" src="https://github-readme-stats-gules-six.vercel.app/api?username=aabuhijleh&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
