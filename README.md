@@ -48,7 +48,7 @@ Databases
 
 ### 📈 Statistics
 
-![aabuhijleh's Stack Overflow stats](https://github-stackoverflow-readme.vercel.app/?userId=9698583)
+[![aabuhijleh's Stack Overflow stats](https://github-stackoverflow-readme.vercel.app/?userId=9698583)](https://stackoverflow.com/users/9698583/aabuhijleh)
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabuhijleh&count_private=true&theme=onedark&show_icons=true" alt="aabuhijleh" />
