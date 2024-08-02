@@ -2,9 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
 
-### 📝 About Me
-
-Hey there! I’m **Abdurrahman**, but you can call me **Abd**. I'm an enthusiastic and experienced full-stack developer who loves diving into the world of web technologies.
+I’m **Abdurrahman**, but you can call me **Abd**. I'm an enthusiastic and experienced full-stack developer.
 
 #### 🔧 What I Do
 
@@ -18,7 +16,7 @@ Dedicated to bringing real value to products by going beyond ticket requirements
 
 ---
 
-### 🔭 My Tech Stack
+### 🔭 Tech Stack
 
 #### 💻 Languages
 
@@ -30,19 +28,19 @@ Dedicated to bringing real value to products by going beyond ticket requirements
 
 #### 🛠️ Tools & Platforms
 
-**Version Control & CI/CD**
+Version Control & CI/CD
 
 ![Tools](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,jenkins)
 
-**Development & Deployment**
+Development & Deployment
 
 ![Tools](https://skillicons.dev/icons?i=vercel,docker,androidstudio,vscode,idea,pycharm,bash,postman,sentry,firebase,notion,stackoverflow,apple)
 
-**Build Tools & Package Managers**
+Build Tools & Package Managers
 
 ![Tools](https://skillicons.dev/icons?i=webpack,vite,npm,yarn,pnpm,gulp,babel)
 
-**Databases**
+Databases
 
 ![Tools](https://skillicons.dev/icons?i=postgres,mysql,redis,planetscale)
 
@@ -87,6 +85,8 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 ### 💻 Current System Specs
 
+#### 👨‍💻 Development MacBook
+
 ```sh
 $ system_profiler SPHardwareDataType
 
@@ -97,4 +97,27 @@ $ system_profiler SPHardwareDataType
         Chip: Apple M2
         Total Number of Cores: 8 (4 performance and 4 efficiency)
         Memory: 16 GB
+```
+
+#### 🎮 Gaming PC
+
+```sh
+$ systeminfo
+
+    OS Name:                   Microsoft Windows 11 Pro
+    System Manufacturer:       Gigabyte Technology Co., Ltd.
+    System Model:              B760 GAMING X DDR4
+    System Type:               x64-based PC
+    Processor(s):              1 Processor(s) Installed.
+                            [01]: Intel64 Family 6 Model 151 Stepping 2 GenuineIntel ~2500 Mhz
+    BIOS Version:              American Megatrends International, LLC. F9, 12/14/2023
+    Total Physical Memory:     32,599 MB
+
+$ wmic path win32_VideoController get caption, adapterram
+
+    Caption
+    NVIDIA GeForce RTX 3070
+
+    AdapterRAM
+    4 GB
 ```
