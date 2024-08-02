@@ -1,80 +1,75 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-📝 I'm Abdurrahman. A full stack developer and an avid internet user
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
 
-💼 I'm currently building exceptional web apps using the refined [hypebeast stack](https://twitter.com/benawad/status/1357899806543347713) (React, styled-components, Node.js, PostgreSQL) and cross-platform desktop apps using Electron. I exclusively use TypeScript 🚀
+### 📝 About Me
 
-[<img alt="JavaScript" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aabuhijleh)
+Hey there! I’m **Abdurrahman**, but you can call me **Abd**. I'm an enthusiastic and experienced full-stack developer who loves diving into the world of web technologies.
 
-### 🔭 Things I'm Familiar With
+#### 🔧 What I Do
 
-#### Languages
+- **Full-Stack Engineering**: Specializing in web technologies, I build and maintain web, mobile, and backend systems.
+- **Leadership**: Successfully leading teams to deliver impactful products that exceed expectations.
+- **Teamwork & Communication**: Strong team player with excellent communication skills, ensuring smooth collaboration and effective problem-solving.
 
-<p>
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript_(ES6+)-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/-C++-%2300599C.svg?&style=flat-sqaure&logo=c%2B%2B&ogoColor=white"/>
-<img alt="Markdown" src="https://img.shields.io/badge/-Markdown-%23000000.svg?&style=flat-sqaure&logo=markdown&logoColor=white"/>
+#### 🚀 My Mission
+
+Dedicated to bringing real value to products by going beyond ticket requirements to identify and implement solutions that make a difference, all while delighting users.
+
+---
+
+### 🔭 My Tech Stack
+
+#### 💻 Languages
+
+![Languages](https://skillicons.dev/icons?i=ts,js,python,go,dart,html,css,graphql,md)
+
+#### 📚 Libraries & Frameworks
+
+![Libraries & Frameworks](https://skillicons.dev/icons?i=react,nodejs,django,electron,nextjs,express,tailwind,styledcomponents,flutter)
+
+#### 🛠️ Tools & Platforms
+
+**Version Control & CI/CD**
+
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,jenkins)
+
+**Development & Deployment**
+
+![Tools](https://skillicons.dev/icons?i=vercel,docker,androidstudio,vscode,idea,pycharm,bash,postman,sentry,firebase,notion,stackoverflow,apple)
+
+**Build Tools & Package Managers**
+
+![Tools](https://skillicons.dev/icons?i=webpack,vite,npm,yarn,pnpm,gulp,babel)
+
+**Databases**
+
+![Tools](https://skillicons.dev/icons?i=postgres,mysql,redis,planetscale)
+
+---
+
+### 📈 Statistics
+
+![aabuhijleh's Stack Overflow stats](https://github-stackoverflow-readme.vercel.app/?userId=9698583)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabuhijleh&count_private=true&theme=onedark&show_icons=true" alt="aabuhijleh" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabuhijleh&hide_border=true&theme=onedark&show_icons=true" />
 </p>
 
-#### Frameworks
+---
 
-<p>
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-<img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-sqaure&logo=styled-components&logoColor=white"/>
-<img alt="Angular" src="https://img.shields.io/badge/-Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
-<img alt="jQuery" src="https://img.shields.io/badge/-jQuery-%230769AD.svg?&style=flat-sqaure&logo=jquery&logoColor=white"/>
-<img alt="Apollo-GraphQL" src="https://img.shields.io/badge/-Apollo_GraphQL-311C87?style=flat-sqaure&logo=apollo-graphql"/>
-<img alt="Express.js" src="https://img.shields.io/badge/-Express.js-%23404d59.svg?&style=flat-sqaure"/>
-</p>
+### 🎯 Interests
 
-#### Tools
+#### 📚 Reading
 
-<p>
-<img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img alt="GitLab" src="https://img.shields.io/badge/-GitLab-%23181717.svg?&style=flat-sqaure&logo=gitlab&logoColor=white"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
-<img alt="yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" />
-<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
-<img alt="Docker" src="https://img.shields.io/badge/-Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white"/>
-<img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira-software&logoColor=white" />
-<img alt="Perforce Helix" src="https://img.shields.io/badge/-Perforce%20Helix-404040?style=flat-square&logo=Perforce&logoColor=white" />
-</p>
+I love reading books on various topics including programming, leadership, and classic literature. You can check out my current reading list [here](https://aabuhijleh.notion.site/e6cedc6c87c74f55a963e79d97035de7?v=5cc87606729b49df812eba1d39b58f2f).
 
-#### Deployment
+#### 🎲 Board Games
 
-<p>
-<img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img alt="GitLab CI" src="https://img.shields.io/badge/-GitLabCI-%23181717.svg?&style=flat-sqaure&logo=gitlab&logoColor=white"/>
-<img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-%232C5263.svg?&style=flat-sqaure&logo=jenkins&logoColor=white"/>
-<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />
-<img alt="Postgres" src ="https://img.shields.io/badge/-Postgres-%23316192.svg?&style=flat-sqaure&logo=postgresql&logoColor=white"/>
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-sqaure&logo=mongodb&logoColor=white"/>
-<img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-</p>
+I'm also an avid board game enthusiast. Feel free to explore my board game collection and activity on my [BoardGameGeek profile](https://boardgamegeek.com/user/aabuhijleh).
 
-#### Forums
-
-<p>
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"/>
-<img alt="Reddit" src="https://img.shields.io/badge/-reddit-%23FF4500.svg?&style=flat-square&logo=Reddit&logoColor=white"/>
-<img alt="Medium" src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
-<img alt="DEV" src="https://img.shields.io/badge/-DEV.TO-0A0A0A?style=flat-square&logo=dev.to&logoColor=white"/>
-</p>
-
-[![Abdurrahman Abu Hijleh's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9698583&theme=dark&layout=compact)](https://stackoverflow.com/users/9698583/aabuhijleh)
+---
 
 ### ⚡ Recent Github Activity
 
@@ -87,3 +82,19 @@
 5. 🗣 Commented on [#1367](https://github.com/flutter-mapbox-gl/maps/issues/1367#issuecomment-1717449639) in [flutter-mapbox-gl/maps](https://github.com/flutter-mapbox-gl/maps)
 
 <!--END_SECTION:activity-->
+
+---
+
+### 💻 Current System Specs
+
+```sh
+$ system_profiler SPHardwareDataType
+
+    Hardware Overview:
+
+        Model Name: MacBook Pro
+        Model Identifier: Mac14,7
+        Chip: Apple M2
+        Total Number of Cores: 8 (4 performance and 4 efficiency)
+        Memory: 16 GB
+```
