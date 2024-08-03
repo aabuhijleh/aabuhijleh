@@ -1,8 +1,8 @@
 {
   "headings": {
-    "work": "Employment",
-    "skills": "Technical Skills",
-    "projects": "Selected Projects",
+    "work": "Experience",
+    "skills": "Skills",
+    "projects": "Projects",
     "education": "Education"
   },
   "basics": {
@@ -15,9 +15,8 @@
     {
       "institution": "An-Najah National University",
       "area": "Computer Engineering",
-      "studyType": "BSc",
+      "studyType": "Bachelor of Science",
       "location": "Nablus, West Bank",
-      "startDate": "Sep 2013",
       "endDate": "May 2018"
     }
   ],
@@ -27,7 +26,7 @@
       "position": "Senior Software Engineer",
       "website": "https://www.ninjavan.co/en-sg/",
       "startDate": "Sep 2022",
-      "endDate": "present",
+      "endDate": "Present",
       "highlights": [
         "Contributed to Dash, an order management platform with web and mobile apps, serving hundreds of thousands in Southeast Asia",
         "Led the Dash team, fostering collaboration and ensuring successful delivery of new features",
@@ -73,39 +72,51 @@
         "Electron",
         "Next.js",
         "Tailwind",
-        "Styled Components"
+        "Styled Components",
+        "Jest"
       ]
     },
     {
-      "name": "Tools & Platforms",
+      "name": "Databases, Tools & Platforms",
       "keywords": [
+        "PostgreSQL",
+        "Redis",
         "Git",
-        "Github",
         "Vercel",
         "Docker",
         "Webpack",
         "Vite",
         "Storybook",
-        "Jira"
+        "Firebase"
       ]
     },
     {
       "name": "Databases",
-      "keywords": ["PostgreSQL", "Redis"]
+      "keywords": []
     }
   ],
   "projects": [
     {
-      "name": "Rainbow For Desktop",
-      "description": "A cross-platform desktop application for Rainbow which is a modern, user friendly WebRTC-based real time communication platform.",
-      "url": "https://tinyurl.com/openrainbow",
-      "keywords": ["Electron", "Node.js", "C++"]
+      "name": "Better GitHub Profile",
+      "description": "An app that generates a portfolio website using GitHub profile data. By simply updating the information on GitHub, users can refresh their site content. This tool is currently utilized for my personal website.",
+      "url": "github.com/aabuhijleh/better-github-profile",
+      "keywords": [
+        "React",
+        "TypeScript",
+        "Styled Components",
+        "GitHub GraphQL API"
+      ]
     },
     {
-      "name": "Better GitHub Profile",
-      "description": "Generates a good looking website using your GitHub profile data. It's the tool I'm using to generate my personal website.",
-      "url": "https://github.com/aabuhijleh/better-github-profile",
-      "keywords": ["React", "Styled Components", "GitHub GraphQL API"]
+      "name": "Keylogger.js",
+      "description": "An npm package created initially to solve the need for a reliable push-to-talk feature. It captures keyboard activity through native Windows and macOS APIs. Created a simple JavaScript API that streamlines the process for developers.",
+      "url": "github.com/aabuhijleh/keylogger.js",
+      "keywords": [
+        "Node.js",
+        "N-API",
+        "Windows C++ APIs",
+        "macOS Objective-C++ APIs"
+      ]
     }
   ],
   "sections": [
