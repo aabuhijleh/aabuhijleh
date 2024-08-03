@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
 
-I’m **Abdurrahman**, but you can call me **Abd**. I'm an enthusiastic and experienced full-stack developer.
+My name is **Abdurrahman**, but you can call me **Abd**. I'm an enthusiastic and experienced full-stack developer.
 
 #### 🔧 What I Do
 
@@ -34,7 +34,7 @@ Version Control & CI/CD
 
 Development & Deployment
 
-![Tools](https://skillicons.dev/icons?i=vercel,docker,androidstudio,vscode,idea,pycharm,bash,postman,sentry,firebase,notion,stackoverflow,apple)
+![Tools](https://skillicons.dev/icons?i=vercel,docker,vscode,androidstudio,idea,pycharm,bash,postman,sentry,firebase,notion,stackoverflow,apple)
 
 Build Tools & Package Managers
 
