@@ -2,11 +2,11 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
 
-My name is **Abdurrahman**, but you can call me **Abd**. I'm an enthusiastic and experienced full-stack developer.
+My name is **Abdurrahman**, but you can call me **Abd**. I'm an enthusiastic and experienced full-stack developer. Let’s build something great together!
 
 #### 🔧 What I Do
 
-- **Full-Stack Engineering**: Specializing in web technologies, I build and maintain web, mobile, and backend systems.
+- **Full-Stack Engineering**: I build and maintain web, mobile, desktop and backend systems.
 - **Leadership**: Successfully leading teams to deliver impactful products that exceed expectations.
 - **Teamwork & Communication**: Strong team player with excellent communication skills, ensuring smooth collaboration and effective problem-solving.
 
