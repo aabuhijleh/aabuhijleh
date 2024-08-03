@@ -1,0 +1,119 @@
+{
+  "headings": {
+    "work": "Employment",
+    "skills": "Technical Skills",
+    "projects": "Selected Projects",
+    "education": "Education"
+  },
+  "basics": {
+    "name": "Abdurrahman Abu-Hijleh",
+    "phone": "+972 599-113-856",
+    "email": "aabuhijleh.dev@gmail.com",
+    "website": "aabuhijleh.com"
+  },
+  "education": [
+    {
+      "institution": "An-Najah National University",
+      "area": "Computer Engineering",
+      "studyType": "BSc",
+      "location": "Nablus, West Bank",
+      "startDate": "Sep 2013",
+      "endDate": "May 2018"
+    }
+  ],
+  "work": [
+    {
+      "company": "Ninja Van",
+      "position": "Senior Software Engineer",
+      "website": "https://www.ninjavan.co/en-sg/",
+      "startDate": "Sep 2022",
+      "endDate": "present",
+      "highlights": [
+        "Contributed to Dash, an order management platform with web and mobile apps, serving hundreds of thousands in Southeast Asia",
+        "Led the Dash team, fostering collaboration and ensuring successful delivery of new features",
+        "Enhanced the Dash website, a React app, by integrating TypeScript, improving code quality and maintainability",
+        "Improved Ninja Van’s internal React design system by adding beautiful and accessible UI components"
+      ]
+    },
+    {
+      "company": "Amdocs",
+      "position": "Senior Software Engineer",
+      "website": "https://www.amdocs.com/",
+      "startDate": "Sep 2021",
+      "endDate": "Sep 2022",
+      "highlights": [
+        "Contributed to a large-scale eCommerce web application using React, Redux, and TypeScript",
+        "Acted as a key developer, adding new features and leading initiatives to enhance the existing codebase with modern React design patterns, resulting in improved maintainability and enabling other developers to work more efficiently"
+      ]
+    },
+    {
+      "company": "Alcatel-Lucent Enterprise",
+      "position": "Software Engineer",
+      "website": "https://www.al-enterprise.com/",
+      "startDate": "May 2018",
+      "endDate": "Aug 2021",
+      "highlights": [
+        "Created and maintained a robust, cross-platform desktop application for Rainbow, a cloud-based communication and collaboration platform, leveraging TypeScript, Electron, and Node.js. Engineered OS-specific C++ integrations to access native APIs, ensuring seamless functionality for tens of thousands of users",
+        "Developed a Google Chrome extension using TypeScript, enabling seamless browser access to Rainbow’s features",
+        "Mentored junior developers, guiding them through the onboarding process and accelerating their integration into the team"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["JavaScript", "TypeScript", "Python", "HTML", "CSS/Sass"]
+    },
+    {
+      "name": "Libraries & Frameworks",
+      "keywords": [
+        "React",
+        "Node",
+        "Django",
+        "Electron",
+        "Next.js",
+        "Tailwind",
+        "Styled Components"
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "keywords": [
+        "Git",
+        "Github",
+        "Vercel",
+        "Docker",
+        "Webpack",
+        "Vite",
+        "Storybook",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Databases",
+      "keywords": ["PostgreSQL", "Redis"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Rainbow For Desktop",
+      "description": "A cross-platform desktop application for Rainbow which is a modern, user friendly WebRTC-based real time communication platform.",
+      "url": "https://tinyurl.com/openrainbow",
+      "keywords": ["Electron", "Node.js", "C++"]
+    },
+    {
+      "name": "Better GitHub Profile",
+      "description": "Generates a good looking website using your GitHub profile data. It's the tool I'm using to generate my personal website.",
+      "url": "https://github.com/aabuhijleh/better-github-profile",
+      "keywords": ["React", "Styled Components", "GitHub GraphQL API"]
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "skills",
+    "projects",
+    "education"
+  ]
+}
