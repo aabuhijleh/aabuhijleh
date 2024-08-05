@@ -1,5 +1,5 @@
 {
-  "resume": "https://github.com/user-attachments/files/16468975/resume.pdf",
+  "resume": "https://github.com/user-attachments/files/16502092/resume.pdf",
   "about": {
     "paragraphs": [
       "Hello! I'm a software engineer who enjoys building web, mobile and desktop applications using web technologies. I graduated in 2018 from An-Najah National University with a Bachelor's degree in Computer Engineering and immediately started working in the field.",
@@ -25,10 +25,11 @@
         "to": "Present"
       },
       "accomplishments": [
-        "Contributed to Dash, an order management platform with web and mobile apps, serving hundreds of thousands in Southeast Asia",
-        "Led the Dash team, fostering collaboration and ensuring successful delivery of new features",
-        "Enhanced the Dash website, a React app, by integrating TypeScript, improving code quality and maintainability",
-        "Improved Ninja Van’s internal React design system by adding beautiful and accessible UI components"
+        "Led a team in developing an order management platform and spearheaded the design and release of new features, coordinating with cross-functional teams to ensure timely delivery and alignment with business goals",
+        "Enhanced customer experience for web and mobile platforms by implementing feedback collection methods to identify and address improvement areas",
+        "Resolved technical support tickets by debugging and addressing root causes, significantly reducing recurring issues and the overall volume of support requests",
+        "Architected and implemented TypeScript integration for the website, enhancing code quality and maintainability",
+        "Created accessible UI components for Ninja Van’s internal React design system, enforcing WCAG standards and setting up tooling to ensure compliance"
       ]
     },
     {
@@ -40,8 +41,9 @@
         "to": "Sep 2022"
       },
       "accomplishments": [
-        "Contributed to a large-scale eCommerce web application using React, Redux, and TypeScript",
-        "Acted as a key developer, adding new features and leading initiatives to enhance the existing codebase with modern React design patterns, resulting in improved maintainability and enabling other developers to work more efficiently"
+        "Led initiatives to refactor the codebase with modern React patterns, improving maintainability and developer efficiency, and reducing technical debt",
+        "Contributed to a large-scale eCommerce web application using React, Redux, and TypeScript, focusing on improving user experience and accessibility",
+        "Provided mentorship, fostering a culture of continuous improvement and knowledge sharing, leading to increased team productivity"
       ]
     },
     {
@@ -53,8 +55,9 @@
         "to": "Aug 2021"
       },
       "accomplishments": [
-        "Created and maintained a robust, cross-platform desktop application for Rainbow, a cloud-based communication and collaboration platform, leveraging TypeScript, Electron, and Node.js. Engineered OS-specific C++ integrations to access native APIs, ensuring seamless functionality for tens of thousands of users",
-        "Developed a Google Chrome extension using TypeScript, enabling seamless browser access to Rainbow’s features",
+        "Created and maintained a robust, cross-platform desktop application, leveraging TypeScript, Electron, and Node.js. Engineered OS-specific C++ integrations to access native APIs, ensuring seamless functionality for tens of thousands of users",
+        "Engineered complex features for the desktop application based on customer needs, including USB headset support utilizing SDKs and the USB HID protocol, and developed remote desktop control using WebRTC",
+        "Developed a Google Chrome extension using TypeScript, enabling seamless browser access to communication features",
         "Mentored junior developers, guiding them through the onboarding process and accelerating their integration into the team"
       ]
     }
