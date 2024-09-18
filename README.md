@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
 
-My name is **Abdurrahman**, but you can call me **Abd**. I'm an enthusiastic and experienced full-stack developer. Let’s build something great together!
+I'm an enthusiastic and experienced full-stack developer. Let’s build something great together!
 
 #### 🔧 What I Do
 
