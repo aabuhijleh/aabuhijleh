@@ -73,8 +73,8 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#324](https://github.com/pacocoursey/next-themes/issues/324#issuecomment-2461912203) in [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes)
-2. 🔒 Closed issue [#6766](https://github.com/Kong/insomnia/issues/6766) in [Kong/insomnia](https://github.com/Kong/insomnia)
+1. 🗣 Commented on [#938](https://github.com/pmndrs/zustand/issues/938#issuecomment-2466436080) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
+2. 🗣 Commented on [#324](https://github.com/pacocoursey/next-themes/issues/324#issuecomment-2461912203) in [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes)
 3. 🔒 Closed issue [#6766](https://github.com/Kong/insomnia/issues/6766) in [Kong/insomnia](https://github.com/Kong/insomnia)
 4. ❗ Opened issue [#6766](https://github.com/Kong/insomnia/issues/6766) in [Kong/insomnia](https://github.com/Kong/insomnia)
 5. 🗣 Commented on [#1367](https://github.com/flutter-mapbox-gl/maps/issues/1367#issuecomment-1717449639) in [flutter-mapbox-gl/maps](https://github.com/flutter-mapbox-gl/maps)
