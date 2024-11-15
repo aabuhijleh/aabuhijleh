@@ -17,7 +17,7 @@
       "position": "Senior Software Engineer",
       "website": "https://www.ninjavan.co/en-sg/",
       "startDate": "Sep 2022",
-      "endDate": "Present",
+      "endDate": "Sep 2024",
       "highlights": [
         "Led a team in developing an order management platform and spearheaded the design and release of new features, coordinating with cross-functional teams to ensure timely delivery and alignment with business goals",
         "Enhanced customer experience for web and mobile platforms by implementing feedback collection methods to identify and address improvement areas",
@@ -87,7 +87,7 @@
   "projects": [
     {
       "name": "Better GitHub Profile",
-      "description": "An app that generates a portfolio website using GitHub profile data. By simply updating the information on GitHub, users can refresh their site content. This tool is currently utilized for my personal website.",
+      "description": "An app that generates a portfolio website using GitHub profile data. By simply updating the information on GitHub, users can refresh their site content.",
       "url": "github.com/aabuhijleh/better-github-profile",
       "keywords": [
         "React",
@@ -118,5 +118,5 @@
       "endDate": "May 2018"
     }
   ],
-  "sections": ["profile", "work", "skills", "projects", "education"]
+  "sections": ["work", "skills", "projects", "education"]
 }
