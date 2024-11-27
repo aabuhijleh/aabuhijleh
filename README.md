@@ -73,10 +73,10 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#78](https://github.com/intellibar/main/issues/78) in [intellibar/main](https://github.com/intellibar/main)
-2. ❗ Opened issue [#76](https://github.com/intellibar/main/issues/76) in [intellibar/main](https://github.com/intellibar/main)
-3. ❗ Opened issue [#75](https://github.com/intellibar/main/issues/75) in [intellibar/main](https://github.com/intellibar/main)
-4. 🗣 Commented on [#938](https://github.com/pmndrs/zustand/issues/938#issuecomment-2466436080) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
-5. 🗣 Commented on [#324](https://github.com/pacocoursey/next-themes/issues/324#issuecomment-2461912203) in [pacocoursey/next-themes](https://github.com/pacocoursey/next-themes)
+1. 🗣 Commented on [#78](https://github.com/intellibar/main/issues/78#issuecomment-2503810355) in [intellibar/main](https://github.com/intellibar/main)
+2. ❗ Opened issue [#78](https://github.com/intellibar/main/issues/78) in [intellibar/main](https://github.com/intellibar/main)
+3. ❗ Opened issue [#76](https://github.com/intellibar/main/issues/76) in [intellibar/main](https://github.com/intellibar/main)
+4. ❗ Opened issue [#75](https://github.com/intellibar/main/issues/75) in [intellibar/main](https://github.com/intellibar/main)
+5. 🗣 Commented on [#938](https://github.com/pmndrs/zustand/issues/938#issuecomment-2466436080) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
 
 <!--END_SECTION:activity-->
