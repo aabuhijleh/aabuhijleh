@@ -73,10 +73,10 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#78](https://github.com/intellibar/main/issues/78#issuecomment-2503810355) in [intellibar/main](https://github.com/intellibar/main)
-2. ❗ Opened issue [#78](https://github.com/intellibar/main/issues/78) in [intellibar/main](https://github.com/intellibar/main)
-3. ❗ Opened issue [#76](https://github.com/intellibar/main/issues/76) in [intellibar/main](https://github.com/intellibar/main)
-4. ❗ Opened issue [#75](https://github.com/intellibar/main/issues/75) in [intellibar/main](https://github.com/intellibar/main)
-5. 🗣 Commented on [#938](https://github.com/pmndrs/zustand/issues/938#issuecomment-2466436080) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
+1. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2514896914) in [raycast/extensions](https://github.com/raycast/extensions)
+2. ❗ Opened issue [#15673](https://github.com/raycast/extensions/issues/15673) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#78](https://github.com/intellibar/main/issues/78#issuecomment-2503810355) in [intellibar/main](https://github.com/intellibar/main)
+4. ❗ Opened issue [#78](https://github.com/intellibar/main/issues/78) in [intellibar/main](https://github.com/intellibar/main)
+5. ❗ Opened issue [#76](https://github.com/intellibar/main/issues/76) in [intellibar/main](https://github.com/intellibar/main)
 
 <!--END_SECTION:activity-->
