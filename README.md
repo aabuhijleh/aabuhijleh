@@ -73,10 +73,10 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2517488204) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2514896914) in [raycast/extensions](https://github.com/raycast/extensions)
-3. ❗ Opened issue [#15673](https://github.com/raycast/extensions/issues/15673) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#78](https://github.com/intellibar/main/issues/78#issuecomment-2503810355) in [intellibar/main](https://github.com/intellibar/main)
-5. ❗ Opened issue [#78](https://github.com/intellibar/main/issues/78) in [intellibar/main](https://github.com/intellibar/main)
+1. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2517603404) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🔒 Closed issue [#15673](https://github.com/raycast/extensions/issues/15673) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2517488204) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2514896914) in [raycast/extensions](https://github.com/raycast/extensions)
+5. ❗ Opened issue [#15673](https://github.com/raycast/extensions/issues/15673) in [raycast/extensions](https://github.com/raycast/extensions)
 
 <!--END_SECTION:activity-->
