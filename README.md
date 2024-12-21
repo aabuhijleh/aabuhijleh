@@ -73,10 +73,10 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#13](https://github.com/w3cj/stoker/issues/13) in [w3cj/stoker](https://github.com/w3cj/stoker)
-2. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2517603404) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🔒 Closed issue [#15673](https://github.com/raycast/extensions/issues/15673) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2517488204) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2514896914) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❗ Opened issue [#957](https://github.com/vercel/next-learn/issues/957) in [vercel/next-learn](https://github.com/vercel/next-learn)
+2. ❗ Opened issue [#13](https://github.com/w3cj/stoker/issues/13) in [w3cj/stoker](https://github.com/w3cj/stoker)
+3. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2517603404) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🔒 Closed issue [#15673](https://github.com/raycast/extensions/issues/15673) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2517488204) in [raycast/extensions](https://github.com/raycast/extensions)
 
 <!--END_SECTION:activity-->
