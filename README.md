@@ -73,10 +73,10 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#509](https://github.com/emilkowalski/sonner/issues/509#issuecomment-2558086230) in [emilkowalski/sonner](https://github.com/emilkowalski/sonner)
-2. 🗣 Commented on [#3746](https://github.com/honojs/hono/issues/3746#issuecomment-2557847576) in [honojs/hono](https://github.com/honojs/hono)
-3. ❗ Opened issue [#957](https://github.com/vercel/next-learn/issues/957) in [vercel/next-learn](https://github.com/vercel/next-learn)
-4. ❗ Opened issue [#13](https://github.com/w3cj/stoker/issues/13) in [w3cj/stoker](https://github.com/w3cj/stoker)
-5. 🗣 Commented on [#15673](https://github.com/raycast/extensions/issues/15673#issuecomment-2517603404) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❗ Opened issue [#529](https://github.com/emilkowalski/sonner/issues/529) in [emilkowalski/sonner](https://github.com/emilkowalski/sonner)
+2. 🗣 Commented on [#509](https://github.com/emilkowalski/sonner/issues/509#issuecomment-2558086230) in [emilkowalski/sonner](https://github.com/emilkowalski/sonner)
+3. 🗣 Commented on [#3746](https://github.com/honojs/hono/issues/3746#issuecomment-2557847576) in [honojs/hono](https://github.com/honojs/hono)
+4. ❗ Opened issue [#957](https://github.com/vercel/next-learn/issues/957) in [vercel/next-learn](https://github.com/vercel/next-learn)
+5. ❗ Opened issue [#13](https://github.com/w3cj/stoker/issues/13) in [w3cj/stoker](https://github.com/w3cj/stoker)
 
 <!--END_SECTION:activity-->
