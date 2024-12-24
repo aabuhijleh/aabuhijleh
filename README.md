@@ -73,10 +73,10 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#48384](https://github.com/facebook/react-native/issues/48384#issuecomment-2561277404) in [facebook/react-native](https://github.com/facebook/react-native)
-2. 🔒 Closed issue [#48384](https://github.com/facebook/react-native/issues/48384) in [facebook/react-native](https://github.com/facebook/react-native)
-3. ❗ Opened issue [#33833](https://github.com/expo/expo/issues/33833) in [expo/expo](https://github.com/expo/expo)
-4. ❗ Opened issue [#48384](https://github.com/facebook/react-native/issues/48384) in [facebook/react-native](https://github.com/facebook/react-native)
-5. 🗣 Commented on [#529](https://github.com/emilkowalski/sonner/issues/529#issuecomment-2559692709) in [emilkowalski/sonner](https://github.com/emilkowalski/sonner)
+1. 🗣 Commented on [#33833](https://github.com/expo/expo/issues/33833#issuecomment-2561282308) in [expo/expo](https://github.com/expo/expo)
+2. 🗣 Commented on [#48384](https://github.com/facebook/react-native/issues/48384#issuecomment-2561277404) in [facebook/react-native](https://github.com/facebook/react-native)
+3. 🔒 Closed issue [#48384](https://github.com/facebook/react-native/issues/48384) in [facebook/react-native](https://github.com/facebook/react-native)
+4. ❗ Opened issue [#33833](https://github.com/expo/expo/issues/33833) in [expo/expo](https://github.com/expo/expo)
+5. ❗ Opened issue [#48384](https://github.com/facebook/react-native/issues/48384) in [facebook/react-native](https://github.com/facebook/react-native)
 
 <!--END_SECTION:activity-->
