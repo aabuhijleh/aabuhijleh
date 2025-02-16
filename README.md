@@ -73,9 +73,9 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#33833](https://github.com/expo/expo/issues/33833#issuecomment-2586531295) in [expo/expo](https://github.com/expo/expo)
-2. 🗣 Commented on [#13](https://github.com/w3cj/stoker/issues/13#issuecomment-2567716705) in [w3cj/stoker](https://github.com/w3cj/stoker)
-3. 🗣 Commented on [#33833](https://github.com/expo/expo/issues/33833#issuecomment-2561912164) in [expo/expo](https://github.com/expo/expo)
+1. 🗣 Commented on [#3013](https://github.com/pmndrs/zustand/issues/3013#issuecomment-2661275045) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
+2. 🔒 Closed issue [#3013](https://github.com/pmndrs/zustand/issues/3013) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
+3. ❗ Opened issue [#3013](https://github.com/pmndrs/zustand/issues/3013) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
 4. 🗣 Commented on [#33833](https://github.com/expo/expo/issues/33833#issuecomment-2561282308) in [expo/expo](https://github.com/expo/expo)
 5. 🗣 Commented on [#48384](https://github.com/facebook/react-native/issues/48384#issuecomment-2561277404) in [facebook/react-native](https://github.com/facebook/react-native)
 
