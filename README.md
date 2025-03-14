@@ -50,9 +50,8 @@ Databases
 
 [![aabuhijleh's Stack Overflow stats](https://github-stackoverflow-readme.vercel.app/?userId=9698583)](https://stackoverflow.com/users/9698583/aabuhijleh)
 
-<p align="center">
+<p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aabuhijleh&count_private=true&theme=onedark&show_icons=true" alt="aabuhijleh" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aabuhijleh&hide_border=true&theme=onedark&show_icons=true" />
 </p>
 
 ---
