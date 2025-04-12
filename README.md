@@ -72,7 +72,7 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3013](https://github.com/pmndrs/zustand/issues/3013#issuecomment-2661275045) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
+1. ❗ Opened issue [#18975](https://github.com/oven-sh/bun/issues/18975) in [oven-sh/bun](https://github.com/oven-sh/bun)
 2. 🔒 Closed issue [#3013](https://github.com/pmndrs/zustand/issues/3013) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
 3. ❗ Opened issue [#3013](https://github.com/pmndrs/zustand/issues/3013) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
 4. 🗣 Commented on [#33833](https://github.com/expo/expo/issues/33833#issuecomment-2561282308) in [expo/expo](https://github.com/expo/expo)
