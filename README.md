@@ -72,10 +72,10 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#96](https://github.com/TanStack/create-tsrouter-app/pull/96) in [TanStack/create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app)
-2. 🗣 Commented on [#1511](https://github.com/amannn/next-intl/issues/1511#issuecomment-2817253229) in [amannn/next-intl](https://github.com/amannn/next-intl)
-3. 🗣 Commented on [#11445](https://github.com/oven-sh/bun/issues/11445#issuecomment-2799855426) in [oven-sh/bun](https://github.com/oven-sh/bun)
-4. ❗ Opened issue [#18975](https://github.com/oven-sh/bun/issues/18975) in [oven-sh/bun](https://github.com/oven-sh/bun)
-5. 🗣 Commented on [#48384](https://github.com/facebook/react-native/issues/48384#issuecomment-2561277404) in [facebook/react-native](https://github.com/facebook/react-native)
+1. 🗣 Commented on [#94](https://github.com/intellibar/main/issues/94#issuecomment-2844688612) in [intellibar/main](https://github.com/intellibar/main)
+2. 💪 Opened PR [#96](https://github.com/TanStack/create-tsrouter-app/pull/96) in [TanStack/create-tsrouter-app](https://github.com/TanStack/create-tsrouter-app)
+3. 🗣 Commented on [#1511](https://github.com/amannn/next-intl/issues/1511#issuecomment-2817253229) in [amannn/next-intl](https://github.com/amannn/next-intl)
+4. 🗣 Commented on [#11445](https://github.com/oven-sh/bun/issues/11445#issuecomment-2799855426) in [oven-sh/bun](https://github.com/oven-sh/bun)
+5. ❗ Opened issue [#18975](https://github.com/oven-sh/bun/issues/18975) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 <!--END_SECTION:activity-->
