@@ -72,7 +72,7 @@ I'm also an avid board game enthusiast. Feel free to explore my board game colle
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1611](https://github.com/cweijan/vscode-database-client/issues/1611#issuecomment-3163224367) in [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client)
+1. 🔒 Closed issue [#78](https://github.com/intellibar/main/issues/78) in [intellibar/main](https://github.com/intellibar/main)
 2. ❗ Opened issue [#1611](https://github.com/cweijan/vscode-database-client/issues/1611) in [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client)
 3. 🗣 Commented on [#1511](https://github.com/amannn/next-intl/issues/1511#issuecomment-2817253229) in [amannn/next-intl](https://github.com/amannn/next-intl)
 4. 🗣 Commented on [#11445](https://github.com/oven-sh/bun/issues/11445#issuecomment-2799855426) in [oven-sh/bun](https://github.com/oven-sh/bun)
