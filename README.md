@@ -6,31 +6,7 @@
 
 ## 🔭 Tech Stack
 
-### 💻 Languages
-
-![Languages](https://skillicons.dev/icons?i=ts,js,python,go,dart,html,css,graphql,md)
-
-### 📚 Libraries & Frameworks
-
-![Libraries & Frameworks](https://skillicons.dev/icons?i=react,nodejs,django,electron,nextjs,express,tailwind,styledcomponents,flutter)
-
-### 🛠️ Tools & Platforms
-
-Version Control & CI/CD
-
-![Tools](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,githubactions,jenkins)
-
-Development & Deployment
-
-![Tools](https://skillicons.dev/icons?i=vercel,docker,vscode,androidstudio,idea,pycharm,bash,postman,sentry,firebase,notion,stackoverflow,apple)
-
-Build Tools & Package Managers
-
-![Tools](https://skillicons.dev/icons?i=webpack,vite,npm,yarn,pnpm,gulp,babel)
-
-Databases
-
-![Tools](https://skillicons.dev/icons?i=postgres,mysql,redis,planetscale)
+![Languages](https://skillicons.dev/icons?i=ts)
 
 ## 📈 Statistics
 
