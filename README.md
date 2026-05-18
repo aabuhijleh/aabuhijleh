@@ -4,9 +4,9 @@
 
 <p align="center">I'm an enthusiastic and experienced full-stack developer. Let’s build something great together!</p>
 
-## 🔭 Tech Stack
+## 🔭 Current Tech Stack
 
-![Languages](https://skillicons.dev/icons?i=ts)
+![tech](https://go-skill-icons.vercel.app/api/icons?i=typescript,bun,tanstack)
 
 ## 📈 Statistics
 
