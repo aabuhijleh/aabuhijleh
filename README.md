@@ -1,22 +1,20 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300" /></p>
 
-I'm an enthusiastic and experienced full-stack developer. Let’s build something great together!
+<p align="center">I'm an enthusiastic and experienced full-stack developer. Let’s build something great together!</p>
 
----
+## 🔭 Tech Stack
 
-### 🔭 Tech Stack
-
-#### 💻 Languages
+### 💻 Languages
 
 ![Languages](https://skillicons.dev/icons?i=ts,js,python,go,dart,html,css,graphql,md)
 
-#### 📚 Libraries & Frameworks
+### 📚 Libraries & Frameworks
 
 ![Libraries & Frameworks](https://skillicons.dev/icons?i=react,nodejs,django,electron,nextjs,express,tailwind,styledcomponents,flutter)
 
-#### 🛠️ Tools & Platforms
+### 🛠️ Tools & Platforms
 
 Version Control & CI/CD
 
@@ -34,15 +32,11 @@ Databases
 
 ![Tools](https://skillicons.dev/icons?i=postgres,mysql,redis,planetscale)
 
----
-
-### 📈 Statistics
+## 📈 Statistics
 
 [![aabuhijleh's Stack Overflow stats](https://github-stackoverflow-readme.vercel.app/?userId=9698583)](https://stackoverflow.com/users/9698583/aabuhijleh)
 
----
-
-### ⚡ Recent Github Activity
+## ⚡ Recent Github Activity
 
 <!--START_SECTION:activity-->
 
