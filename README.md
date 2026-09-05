@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#3](https://github.com/aabuhijleh/abed-hub/pull/3) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-2. 💪 Opened PR [#2](https://github.com/aabuhijleh/abed-hub/pull/2) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-3. 🎉 Merged PR [#1](https://github.com/aabuhijleh/abed-hub/pull/1) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-4. 💪 Opened PR [#1](https://github.com/aabuhijleh/abed-hub/pull/1) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-5. ❗ Opened issue [#18975](https://github.com/oven-sh/bun/issues/18975) in [oven-sh/bun](https://github.com/oven-sh/bun)
+1. 🎉 Merged PR [#8](https://github.com/aabuhijleh/abed-hub/pull/8) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+2. 💪 Opened PR [#8](https://github.com/aabuhijleh/abed-hub/pull/8) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+3. 🎉 Merged PR [#7](https://github.com/aabuhijleh/abed-hub/pull/7) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+4. 💪 Opened PR [#7](https://github.com/aabuhijleh/abed-hub/pull/7) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+5. 🎉 Merged PR [#6](https://github.com/aabuhijleh/abed-hub/pull/6) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
 
 <!--END_SECTION:activity-->
