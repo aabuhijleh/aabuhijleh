@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/aabuhijleh/abed-hub/pull/1) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-2. 💪 Opened PR [#1](https://github.com/aabuhijleh/abed-hub/pull/1) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-3. 🎉 Merged PR [#1](https://github.com/aabuhijleh/fullstack-monorepo-template/pull/1) in [aabuhijleh/fullstack-monorepo-template](https://github.com/aabuhijleh/fullstack-monorepo-template)
-4. 💪 Opened PR [#1](https://github.com/aabuhijleh/fullstack-monorepo-template/pull/1) in [aabuhijleh/fullstack-monorepo-template](https://github.com/aabuhijleh/fullstack-monorepo-template)
+1. 💪 Opened PR [#3](https://github.com/aabuhijleh/abed-hub/pull/3) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+2. 💪 Opened PR [#2](https://github.com/aabuhijleh/abed-hub/pull/2) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+3. 🎉 Merged PR [#1](https://github.com/aabuhijleh/abed-hub/pull/1) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+4. 💪 Opened PR [#1](https://github.com/aabuhijleh/abed-hub/pull/1) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
 5. ❗ Opened issue [#18975](https://github.com/oven-sh/bun/issues/18975) in [oven-sh/bun](https://github.com/oven-sh/bun)
 
 <!--END_SECTION:activity-->
