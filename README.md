@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/aabuhijleh/blog/pull/1) in [aabuhijleh/blog](https://github.com/aabuhijleh/blog)
-2. 💪 Opened PR [#1](https://github.com/aabuhijleh/blog/pull/1) in [aabuhijleh/blog](https://github.com/aabuhijleh/blog)
-3. 🎉 Merged PR [#9](https://github.com/aabuhijleh/abed-hub/pull/9) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-4. 💪 Opened PR [#9](https://github.com/aabuhijleh/abed-hub/pull/9) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-5. 🎉 Merged PR [#8](https://github.com/aabuhijleh/abed-hub/pull/8) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+1. 🎉 Merged PR [#10](https://github.com/aabuhijleh/abed-hub/pull/10) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+2. 💪 Opened PR [#10](https://github.com/aabuhijleh/abed-hub/pull/10) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+3. 🎉 Merged PR [#1](https://github.com/aabuhijleh/blog/pull/1) in [aabuhijleh/blog](https://github.com/aabuhijleh/blog)
+4. 💪 Opened PR [#1](https://github.com/aabuhijleh/blog/pull/1) in [aabuhijleh/blog](https://github.com/aabuhijleh/blog)
+5. 🎉 Merged PR [#9](https://github.com/aabuhijleh/abed-hub/pull/9) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
 
 <!--END_SECTION:activity-->
