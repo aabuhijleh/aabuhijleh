@@ -10,7 +10,7 @@
 
 ## 📈 Statistics
 
-[![aabuhijleh's Stack Overflow stats](https://github-stackoverflow-readme.vercel.app/?userId=9698583)](https://stackoverflow.com/users/9698583/aabuhijleh)
+[![aabuhijleh's Stack Overflow stats](./stackoverflow.svg)](https://stackoverflow.com/users/9698583/aabuhijleh)
 
 ## ⚡ Recent Github Activity
 
