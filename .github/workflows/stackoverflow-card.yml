@@ -1,0 +1,39 @@
+name: Update Stack Overflow card
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/scripts/stackoverflow-card.mjs
+      - .github/workflows/stackoverflow-card.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: Render stackoverflow.svg from the Stack Exchange API
+
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - run: node .github/scripts/stackoverflow-card.mjs
+      - name: Commit if changed
+        run: |
+          git diff --quiet -- stackoverflow.svg && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stackoverflow.svg
+          git commit -m ":bar_chart: Update Stack Overflow card"
+          git pull --rebase
+          git push
