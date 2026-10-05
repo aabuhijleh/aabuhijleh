@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/aabuhijleh/keylogger.js/issues/3#issuecomment-5981037400) in [aabuhijleh/keylogger.js](https://github.com/aabuhijleh/keylogger.js)
-2. 🗣 Commented on [#543](https://github.com/LelouchFR/skill-icons/issues/543#issuecomment-5980709563) in [LelouchFR/skill-icons](https://github.com/LelouchFR/skill-icons)
-3. 🎉 Merged PR [#1](https://github.com/aabuhijleh/aabuhijleh/pull/1) in [aabuhijleh/aabuhijleh](https://github.com/aabuhijleh/aabuhijleh)
-4. 💪 Opened PR [#1](https://github.com/aabuhijleh/aabuhijleh/pull/1) in [aabuhijleh/aabuhijleh](https://github.com/aabuhijleh/aabuhijleh)
-5. 🎉 Merged PR [#18](https://github.com/aabuhijleh/abed-hub/pull/18) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+1. 🎉 Merged PR [#21](https://github.com/aabuhijleh/abed-hub/pull/21) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+2. 💪 Opened PR [#21](https://github.com/aabuhijleh/abed-hub/pull/21) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+3. 🎉 Merged PR [#20](https://github.com/aabuhijleh/abed-hub/pull/20) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+4. 💪 Opened PR [#20](https://github.com/aabuhijleh/abed-hub/pull/20) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+5. 🎉 Merged PR [#19](https://github.com/aabuhijleh/abed-hub/pull/19) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
 
 <!--END_SECTION:activity-->
