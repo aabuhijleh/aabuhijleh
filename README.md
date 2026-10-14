@@ -16,10 +16,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/aabuhijleh/abed-hub/pull/24) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-2. 💪 Opened PR [#24](https://github.com/aabuhijleh/abed-hub/pull/24) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-3. 🎉 Merged PR [#23](https://github.com/aabuhijleh/abed-hub/pull/23) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-4. 💪 Opened PR [#23](https://github.com/aabuhijleh/abed-hub/pull/23) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
-5. 🎉 Merged PR [#22](https://github.com/aabuhijleh/abed-hub/pull/22) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+1. 💪 Opened PR [#26](https://github.com/aabuhijleh/abed-hub/pull/26) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+2. 💪 Opened PR [#25](https://github.com/aabuhijleh/abed-hub/pull/25) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+3. 🎉 Merged PR [#24](https://github.com/aabuhijleh/abed-hub/pull/24) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+4. 💪 Opened PR [#24](https://github.com/aabuhijleh/abed-hub/pull/24) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
+5. 🎉 Merged PR [#23](https://github.com/aabuhijleh/abed-hub/pull/23) in [aabuhijleh/abed-hub](https://github.com/aabuhijleh/abed-hub)
 
 <!--END_SECTION:activity-->
